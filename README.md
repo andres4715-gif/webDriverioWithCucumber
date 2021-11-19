@@ -87,5 +87,3 @@ $ npm run cucumber:undefined:step
 ```bash
 $ npm run cucumber:unused:step
 ```
-
-new
